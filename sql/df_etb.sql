@@ -1,0 +1,1 @@
+SELECT * FROM bbdd_cos_etiquetados_soul.tb_etiquetados_etb;
